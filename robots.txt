@@ -1,0 +1,4 @@
+Sitemap: https://www.foreignforest.in/sitemap.xml
+
+user-agent:*
+Disallow:
